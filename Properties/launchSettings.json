@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EventStreamCleaner": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

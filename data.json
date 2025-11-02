@@ -1,0 +1,11 @@
+
+    {
+      "event_id": "E1234",
+      "timestamp": "2025-10-19T10:00:03Z",
+      "road_segment_id": "R45",
+      "event_type": "ACCIDENT",
+      "severity": 3,
+      "source": "waze"
+    }
+
+
